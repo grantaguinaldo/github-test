@@ -6,5 +6,7 @@ def test():
 	
 	return num_list[unique]
 
+	#I added this code. 
+
 x = test()
 print(x)
