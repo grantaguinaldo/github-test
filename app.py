@@ -8,3 +8,8 @@ def test():
 	#Removed comment and whitespace
 x = test()
 print(x)
+
+def test_2():
+
+	#Blah Blah Blah
+	return Blah
