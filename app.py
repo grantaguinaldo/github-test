@@ -1,0 +1,10 @@
+def test():
+	import random
+
+	num_list = [1, 2, 3, 4, 5]
+	unique = num_list[random.randint(0, 4)]
+	
+	return num_list[unique]
+
+x = test()
+print(x)
